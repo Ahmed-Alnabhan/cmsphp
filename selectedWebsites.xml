@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<web><choice selected="yes"><first>
+FOXSports.com News
+</first><url>
+http://feeds.pheedo.com/feedout/syndicatedContent_categoryId_0
+</url></choice><choice selected="yes"><first>
+Globe 10.0 -- Boston.com
+</first><url>
+http://feeds.boston.com/boston/globe10
+</url></choice><choice selected="yes"><first>
+North Carolina Tar Heels News -- www.tarheelblue.com
+</first><url>
+http://www.tarheelblue.com/headline-rss.xml
+</url></choice></web>

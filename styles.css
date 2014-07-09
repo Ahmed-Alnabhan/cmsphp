@@ -1,0 +1,131 @@
+body {
+    font-family: goergia, sans-serif;
+    font-size: 15px;
+    background: #ECF1EF;
+}
+
+#container {
+    padding: 0;
+    margin: 0 auto;
+    background: #FAFAFA;
+    border-left: 2px solid #7F7F7F;
+    border-right: 2px solid #7F7F7F;
+    width: 90%;
+}
+
+#banner {
+    border-top: 3px solid #7F7F7F;
+}
+
+#navbar {
+    background: #8B0000;
+    padding-top: 0.1em;
+    border-bottom: 10px solid #7F7F7F;
+}
+#navbar li{
+    list-style: none;
+    display: inline;
+    
+}
+
+#navbar li a{
+    text-decoration: none;
+    border: 1px solid #7F7F7F;
+    color: #8B0000;
+    font-family: verdana, sans-serif;
+    font-size: 18px;
+    margin-left: 1em;
+    padding-left: .3em;
+    padding-right: .3em;
+    background:#BEBEBE;
+}
+
+#navbar li a:hover{
+    color:#7F7F7F;
+}
+
+
+
+#rightc {
+    float: right;
+    margin-right: 2em;
+    background: #F0F0F0;
+    border-radius: 10px;
+    width:25%;
+}
+
+#rightc p {
+    text-align: justify;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#rightc img,h3 {
+   text-align: center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top:0.5em;
+}
+
+#footer {
+    color: #fff;
+    background: #8B0000;
+    text-align: left;
+    border-bottom: 3px solid #7F7F7F;
+    padding-left: 1em;
+    clear: both;
+}
+
+#firstcontentarea {
+    position: relative;
+    margin-right: 30%;
+    float: left;
+    background: #F0F0F0;
+    border-radius: 10px;
+    width:60%;
+    margin: 2em;
+    padding: 1em;
+    margin-top: 1em;
+    border-right: 2px solid #cc44cc;
+}
+
+#contentarea {
+    background: #F0F0F0;
+    border-radius: 10px;
+    margin: 2em;
+    padding: 1em;
+    margin-top: 1em;
+}
+.highlightedinfo {
+    color: #7F7F7F;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.headings {
+    background: #CDBA96;
+    border-radius: 10px;
+    margin: 2em;
+    padding: 1em;
+    margin-top: 1em;
+    font-weight: bold;
+    font-size:19px;
+    text-align: center;
+    color: #8B0000;
+}
+
+.date {
+    color: #7F7F7F;
+    text-align: center;
+    font-size:15px;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-top: -1em;
+}
+
+.paragraph {
+    text-align:justify;
+    font-family: Helvetica, sans-serif;
+    padding: 2em;
+}

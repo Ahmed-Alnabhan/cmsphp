@@ -1,0 +1,261 @@
+<services>
+<news>
+<student selected="yes">
+<first>
+Ahmed
+</first>
+<last>
+Al Nabhan
+</last>
+<url>
+http://people.rit.edu/~amn5948/739/project2/project2.rss
+</url>
+</student>
+<student selected="yes">
+<first>
+Andrew
+</first>
+<last>
+Kiproff
+</last>
+<url>
+http://people.rit.edu/~axk9760/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Andy
+</first>
+<last>
+Read
+</last>
+<url>
+http://people.rit.edu/~akr1187/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Austin
+</first>
+<last>
+Scott
+</last>
+<url>
+http://people.rit.edu/~aks4124/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Bandar
+</first>
+<last>
+Alsaif
+</last>
+<url>
+http://people.rit.edu/~baa9662/739/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Barret
+</first>
+<last>
+Furton
+</last>
+<url>
+http://people.rit.edu/~bpf4347/739/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Conner
+</first>
+<last>
+Fraser
+</last>
+<url>
+http://people.rit.edu/~cff7979/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Erich
+</first>
+<last>
+Cottom
+</last>
+<url>
+http://people.rit.edu/~egc9701/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+John
+</first>
+<last>
+Messersmith
+</last>
+<url>
+http://people.rit.edu/~jlm6882/739/project2/project2.rss
+</url>
+</student>
+<student selected="yes">
+<first>
+Joe
+</first>
+<last>
+Gonzalez
+</last>
+<url>
+http://people.rit.edu/~jkg1065/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Kai
+</first>
+<last>
+Ito
+</last>
+<url>
+http://people.rit.edu/~kxi8435/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Kevin
+</first>
+<last>
+McLoughlin
+</last>
+<url>
+http://people.rit.edu/~kjm9631/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Kevin
+</first>
+<last>
+Rankin
+</last>
+<url>
+http://people.rit.edu/~ktr3704/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Kody
+</first>
+<last>
+Hogg
+</last>
+<url>
+http://people.rit.edu/~kjh4365/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Marshall
+</first>
+<last>
+Watson
+</last>
+<url>
+http://people.rit.edu/~mrw9712/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Michael
+</first>
+<last>
+St. Pierre
+</last>
+<url>
+http://people.rit.edu/~mjs5767/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Stephen
+</first>
+<last>
+Smith
+</last>
+<url>
+http://people.rit.edu/~sns1215/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Talisha
+</first>
+<last>
+Payton
+</last>
+<url>
+http://people.rit.edu/~tep7927/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Thomas
+</first>
+<last>
+Kloppel
+</last>
+<url>
+http://people.rit.edu/~txk9298/539/project2/project2.rss
+</url>
+</student>
+<student selected="no">
+<first>
+Trent
+</first>
+<last>
+Widrick
+</last>
+<url>
+http://people.rit.edu/~tjw4096/539/project2/project2.rss
+</url>
+</student>
+</news>
+<web>
+<choice selected="no">
+<name>
+FOXSports.com News
+</name>
+<url>
+http://feeds.pheedo.com/feedout/syndicatedContent_categoryId_0
+</url>
+</choice>
+<choice selected="no">
+<name>
+Globe 10.0 -- Boston.com
+</name>
+<url>
+http://feeds.boston.com/boston/globe10
+</url>
+</choice>
+<choice selected="no">
+<name>
+Lehighsports.com : Lehighsports Top Stories
+</name>
+<url>
+http://www.lehighsports.com/rss/homepage.xml
+</url>
+</choice>
+<choice selected="yes">
+<name>
+North Carolina Tar Heels News -- www.tarheelblue.com
+</name>
+<url>
+http://www.tarheelblue.com/headline-rss.xml
+</url>
+<tag name="title" itemnumber="1"/>
+<tag name="link" itemnumber="0"/>
+<tag name="comments" itemnumber="0"/>
+</choice>
+</web>
+</services>
